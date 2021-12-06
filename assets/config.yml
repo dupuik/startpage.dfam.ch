@@ -3,7 +3,7 @@ subtitle: "The Dupuis Family"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 21.09.2 // Contents: Dec 6 2021 8:21 AM EST \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 21.09.2 // Contents: Dec 6 2021 6:41 PM EST \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -167,25 +167,6 @@ services:
         url: "https://meet.jit.si/dfam"
         target: "_blank" # optional html a tag target attribute
 
-  - name: "Infrastructure"
-    icon: "fas fa-expand-arrows-alt"
-    items:
-      - name: "OTA TV Tuner"
-        logo: "assets/walkxcode-icons/png/hdhomerun.png"
-        subtitle: "HDHomeRun"
-        url: "http://HDHR-10612879"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Storage"
-        logo: "assets/walkxcode-icons/png/synology-dsm.png"
-        subtitle: "Synology"
-        url: "https://vangogh:5001"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Uninterruptible Power Supply"
-        logo: "assets/other-icons/apc.png"
-        subtitle: "APC"
-        url: "http://ampere"
-        target: "_blank" # optional html a tag target attribute
-
   - name: "Mirrors"
     icon: "fas fa-copy"
     items:
@@ -200,93 +181,6 @@ services:
         subtitle: "kjtd.net"
         tag: "Internet"
         url: "http://iegmc.kjtd.net"
-        target: "_blank" # optional html a tag target attribute
-
-  - name: "Network - Access Points"
-    icon: "fas fa-wifi"
-    items:
-      - name: "Wireless Network"
-        logo: "assets/walkxcode-icons/png/hp.png"
-        subtitle: "Aruba Instant On"
-        tag: "Internet"
-        url: "https://portal.arubainstanton.com"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Wireless Network"
-        logo: "assets/other-icons/cisco.png"
-        subtitle: "Cisco Business"
-        url: "http://ciscobusiness.cisco"
-        target: "_blank" # optional html a tag target attribute
-
-  - name: "Network - MoCA"
-    icon: "fas fa-route"
-    items:
-      - name: "Playroom"
-        logo: "assets/other-icons/gocoax.jpg"
-        subtitle: "goCoax"
-        url: "http://sylvester"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Basement"
-        logo: "assets/other-icons/gocoax.jpg"
-        subtitle: "goCoax"
-        url: "http://foghorn"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Guest Bedroom"
-        logo: "assets/other-icons/gocoax.jpg"
-        subtitle: "goCoax"
-        url: "http://marvin"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Master Bedroom"
-        logo: "assets/other-icons/gocoax.jpg"
-        subtitle: "goCoax"
-        url: "http://elmer"
-        target: "_blank" # optional html a tag target attribute
-
-  - name: "Network - Routers"
-    icon: "fas fa-network-wired"
-    items:
-      - name: "Core"
-        logo: "assets/walkxcode-icons/png/pfsense.png"
-        subtitle: "pfSense"
-        url: "https://morse"
-        target: "_blank" # optional html a tag target attribute
-
-  - name: "Network - Switches"
-    icon: "fas fa-random"
-    items:
-      - name: "Core"
-        logo: "assets/other-icons/cisco.png"
-        subtitle: "Cisco 3560"
-        url: "http://watson"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Basement Office"
-        logo: "assets/walkxcode-icons/png/hp.png"
-        subtitle: "HP OfficeConnect 1910-8G"
-        url: "http://minnie"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Family Room East"
-        logo: "assets/walkxcode-icons/png/hp.png"
-        subtitle: "HP OfficeConnect 1910-8G"
-        url: "http://donald"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Family Room West"
-        logo: "assets/walkxcode-icons/png/hp.png"
-        subtitle: "HP OfficeConnect 1910-8G"
-        url: "http://pluto"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Guest Bedroom"
-        logo: "assets/walkxcode-icons/png/hp.png"
-        subtitle: "HP OfficeConnect 1910-8G"
-        url: "http://jerry"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Master Bedroom"
-        logo: "assets/walkxcode-icons/png/hp.png"
-        subtitle: "HP OfficeConnect 1910-8G"
-        url: "http://mickey"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Playroom"
-        logo: "assets/walkxcode-icons/png/hp.png"
-        subtitle: "HP OfficeConnect 1910-8G"
-        url: "http://tom"
         target: "_blank" # optional html a tag target attribute
 
   - name: "Printers"
@@ -337,35 +231,6 @@ services:
         logo: "assets/walkxcode-icons/png/transmission.png"
         subtitle: "Transmission"
         url: "http://godzilla:9091"
-        target: "_blank" # optional html a tag target attribute
-      - name: "URL Shortener"
-        logo: "assets/walkxcode-icons/png/yourls.png"
-        subtitle: "YOURLS"
-        url: "https://k32.one"
-        target: "_blank" # optional html a tag target attribute
-
-  - name: "Virtual Machines"
-    icon: "fas fa-server"
-    items:
-      - name: "godzilla"
-        logo: "assets/walkxcode-icons/png/portainer.png"
-        subtitle: "Portainer"
-        url: "http://godzilla:9000"
-        target: "_blank" # optional html a tag target attribute
-      - name: "hertz"
-        logo: "assets/walkxcode-icons/png/proxmox.png"
-        subtitle: "Proxmox"
-        url: "https://hertz:8006"
-        target: "_blank" # optional html a tag target attribute
-      - name: "kilohertz"
-        logo: "assets/walkxcode-icons/png/portainer.png"
-        subtitle: "Portainer"
-        url: "http://kilohertz:9000"
-        target: "_blank" # optional html a tag target attribute
-      - name: "nimbus"
-        logo: "assets/walkxcode-icons/png/portainer.png"
-        subtitle: "Portainer"
-        url: "http://nimbus:9000"
         target: "_blank" # optional html a tag target attribute
 
   - name: "nimbus"
