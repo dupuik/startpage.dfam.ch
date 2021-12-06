@@ -3,7 +3,7 @@ subtitle: "The Dupuis Family"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 21.09.2 // Contents: Dec 6 2021 6:41 PM EST \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 21.09.2 // Contents: Dec 6 2021 6:44 PM EST \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -136,7 +136,7 @@ services:
         icon: "fas fa-exclamation"
         subtitle: "kjtd.net"
         tag: "Internet"
-        url: "https://www.kjtd.net/psa"
+        url: "http://kjtd.net/psa"
         target: "_blank" # optional html a tag target attribute
       - name: "Weather Conditions"
         logo: "assets/other-icons/davis.png"
@@ -174,7 +174,7 @@ services:
         logo: "assets/other-icons/rpi.png"
         subtitle: "Michael Sofka"
         tag: "Internet"
-        url: "https://www.kjtd.net/mirrors/homepages.rpi.edu/sofkam"
+        url: "http://kjtd.net/mirrors/homepages.rpi.edu/sofkam"
         target: "_blank" # optional html a tag target attribute
       - name: "IEGMC"
         icon: "fas fa-gamepad"
