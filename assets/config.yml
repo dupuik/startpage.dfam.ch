@@ -3,7 +3,7 @@ subtitle: "The Dupuis Family"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 21.09.2 // Contents: Dec 6 2021 6:44 PM EST \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 21.09.2 // Contents: Dec 11 2021 3:59 PM EST \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -75,13 +75,19 @@ services:
         logo: "assets/walkxcode-icons/png/google-mail.png"
         subtitle: "Google"
         tag: "Internet"
-        url: "https://accounts.google.com/AccountChooser/signinchooser?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AccountChooser"
+        url: "https://mail.google.com/a/dfamily.me"
+        target: "_blank" # optional html a tag target attribute
+      - name: "Calendar"
+        logo: "assets/walkxcode-icons/png/google-calendar.png"
+        subtitle: "Google"
+        tag: "Internet"
+        url: "https://www.google.com/calendar/hosted/dfamily.me"
         target: "_blank" # optional html a tag target attribute
       - name: "Drive"
         logo: "assets/other-icons/google-drive.png"
         subtitle: "Google"
         tag: "Internet"
-        url: "https://accounts.google.com/ServiceLogin?service=wise&passive=true&continue=http%3A%2F%2Fdrive.google.com%2F%3Futm_source%3Den&utm_medium=button&utm_campaign=web&utm_content=gotodrive&usp=gtd&ltmpl=drive"
+        url: "https://drive.google.com/a/dfamily.me"
         target: "_blank" # optional html a tag target attribute
       - name: "Library"
         logo: "assets/other-icons/libib.png"
