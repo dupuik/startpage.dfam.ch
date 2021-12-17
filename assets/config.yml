@@ -3,7 +3,7 @@ subtitle: "The Dupuis Family"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 21.09.2 // Contents: Dec 11 2021 3:59 PM EST \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 21.09.2 // Contents: Dec 17 2021 9:29 AM EST \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -211,11 +211,6 @@ services:
   - name: "Utilities"
     icon: "fas fa-tools"
     items:
-      - name: "Media"
-        logo: "assets/walkxcode-icons/png/jellyfin.png"
-        subtitle: "Jellyfin"
-        url: "http://jellyfin:8096"
-        target: "_blank" # optional html a tag target attribute
       - name: "Monitor"
         logo: "assets/other-icons/uptimerobot.png"
         subtitle: "UptimeRobot"
@@ -232,11 +227,6 @@ services:
         subtitle: "Optimum"
         tag: "Internet"
         url: "https://www.optimum.com/internet/speed-test"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Torrents"
-        logo: "assets/walkxcode-icons/png/transmission.png"
-        subtitle: "Transmission"
-        url: "http://godzilla:9091"
         target: "_blank" # optional html a tag target attribute
 
   - name: "nimbus"
