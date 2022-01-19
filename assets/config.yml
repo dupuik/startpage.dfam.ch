@@ -3,7 +3,7 @@ subtitle: "The Dupuis Family"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 21.09.2 // Contents: Dec 21 2021 4:51 PM EST \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 21.09.2 // Contents: Jan 19 2022 8:39 AM EST \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -62,45 +62,6 @@ links:
 # Leave only a "items" key if not using group (group name, icon & tagstyle are optional, section separation will not be displayed).
 services:
 
-  - name: "Family"
-    icon: "fas fa-child"
-    items:
-      - name: "Email"
-        logo: "assets/other-icons/zoho.png"
-        subtitle: "Zoho"
-        tag: "Internet"
-        url: "https://accounts.zoho.com/signin?servicename=VirtualOffice"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Email"
-        logo: "assets/walkxcode-icons/png/google-mail.png"
-        subtitle: "Google"
-        tag: "Internet"
-        url: "https://mail.google.com/a/dfamily.me"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Calendar"
-        logo: "assets/walkxcode-icons/png/google-calendar.png"
-        subtitle: "Google"
-        tag: "Internet"
-        url: "https://www.google.com/calendar/hosted/dfamily.me"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Drive"
-        logo: "assets/other-icons/google-drive.png"
-        subtitle: "Google"
-        tag: "Internet"
-        url: "https://drive.google.com/a/dfamily.me"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Library"
-        logo: "assets/other-icons/libib.png"
-        subtitle: "Libib"
-        tag: "Internet"
-        url: "https://dupuik.libib.com"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Photos"
-        logo: "assets/walkxcode-icons/png/photoprism.png"
-        subtitle: "PhotoPrism"
-        url: "http://photos:2342"
-        target: "_blank" # optional html a tag target attribute
-
   - name: "Gifts"
     icon: "fas fa-gift"
     items:
@@ -115,18 +76,6 @@ services:
         subtitle: "Ugift 529 Plan"
         tag: "Internet"
         url: "https://www.ugift529.com/gifttpl/ugift/create/viewGiftCodeDetails.cs?ugiftcode=J2J-L3M"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Tara"
-        logo: "assets/walkxcode-icons/png/amazon.png"
-        subtitle: "Amazon"
-        tag: "Internet"
-        url: "https://www.amazon.com/hz/wishlist/ls/WO1CF0JNGHHO"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Ken"
-        logo: "assets/walkxcode-icons/png/amazon.png"
-        subtitle: "Amazon"
-        tag: "Internet"
-        url: "https://www.amazon.com/hz/wishlist/ls/2UMH4B2C3MSTQ"
         target: "_blank" # optional html a tag target attribute
 
   - name: "Information"
@@ -164,13 +113,13 @@ services:
         logo: "assets/other-icons/freeconferencecall.jpg"
         subtitle: "FreeConferenceCall"
         tag: "Internet"
-        url: "https://www.freeconferencecall.com/wall/dfam"
+        url: "https://www.freeconferencecall.com/wall/kennethdupuis"
         target: "_blank" # optional html a tag target attribute
       - name: "Video"
         logo: "assets/walkxcode-icons/png/jitsimeet.png"
         subtitle: "Jitsi"
         tag: "Internet"
-        url: "https://meet.jit.si/dfam"
+        url: "https://meet.jit.si/kennethdupuis"
         target: "_blank" # optional html a tag target attribute
 
   - name: "Mirrors"
