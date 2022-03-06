@@ -3,7 +3,7 @@ subtitle: "Kenneth Dupuis"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 21.09.2 // Contents: Jan 19 2022 8:51 AM EST \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 21.09.2 // Contents: Mar 6 2022 12:03 AM EST \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -81,18 +81,6 @@ services:
   - name: "Information"
     icon: "fas fa-info"
     items:
-      - name: "COVID-19"
-        logo: "assets/other-icons/coronavirus.jpg"
-        subtitle: "kjtd.net"
-        tag: "Internet"
-        url: "http://covid19.kjtd.net"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Public Service Announcements"
-        icon: "fas fa-exclamation"
-        subtitle: "kjtd.net"
-        tag: "Internet"
-        url: "http://kjtd.net/psa"
-        target: "_blank" # optional html a tag target attribute
       - name: "Weather Conditions"
         logo: "assets/other-icons/davis.png"
         subtitle: "Davis Vantage Pro2"
