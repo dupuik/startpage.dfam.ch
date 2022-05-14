@@ -3,7 +3,7 @@ subtitle: "Kenneth Dupuis"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 21.09.2 // Contents: Apr 8 2022 9:13 AM EST \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 21.09.2 // Contents: May 14 2022 2:09 AM EST \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -135,10 +135,10 @@ services:
         tag: "Internet"
         url: "https://stats.uptimerobot.com/kOJRjCnol7"
         target: "_blank" # optional html a tag target attribute
-      - name: "Speed Test"
+      - name: "LAN Speed Test"
         logo: "assets/walkxcode-icons/png/librespeed.png"
         subtitle: "LibreSpeed"
-        url: "http://godzilla:3000"
+        url: "http://speedtest:3000"
         target: "_blank" # optional html a tag target attribute
       - name: "Speed Test"
         logo: "assets/other-icons/optimum.jpg"
