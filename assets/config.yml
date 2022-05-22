@@ -3,7 +3,7 @@ subtitle: "Kenneth Dupuis"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 21.09.2 // Contents: May 21 2022 4:45 PM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 22.02.2 // Contents: May 21 2022 4:45 PM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
