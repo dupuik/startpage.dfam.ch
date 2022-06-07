@@ -3,7 +3,7 @@ subtitle: "Kenneth Dupuis"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 22.02.2 // Contents: Jun 2 2022 8:59 PM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 22.02.2 // Contents: Jun 7 2022 6:56 PM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -54,7 +54,7 @@ links:
     target: "_blank" # optional html a tag target attribute
   - name: "Wikipedia"
     icon: "fas fa-atlas"
-    url: "https://www.wikipedia.org"
+    url: "https://en.wikipedia.org/wiki/Main_Page"
     target: "_blank" # optional html a tag target attribute
 
 # Services
