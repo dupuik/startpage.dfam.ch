@@ -3,7 +3,7 @@ subtitle: "Kenneth Dupuis"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 22.02.2 // Contents: Sep 23 2022 8:14 AM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 22.02.2 // Contents: Sep 23 2022 10:13 AM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -137,7 +137,7 @@ services:
         target: "_blank" # optional html a tag target attribute
         
   - name: "Weather"
-    icon: "fas fa-info"
+    icon: "fas fa-tornado"
     items:
       - name: "Weather Conditions"
         logo: "assets/other-icons/davis.png"
