@@ -3,7 +3,7 @@ subtitle: "Dupuis Family"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 22.02.2 // Contents: Oct 9 2022 8:29 AM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 22.02.2 // Contents: Oct 13 2022 11:29 AM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -102,12 +102,6 @@ services:
         subtitle: "Home"
         tag: "Internet"
         url: "https://www.libib.com/u/dupuik"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Meals"
-        logo: "assets/other-icons/mealie.png"
-        subtitle: "Mealie"
-        tag: "Internet"
-        url: "https://mealie.dfam.ch"
         target: "_blank" # optional html a tag target attribute
         
   - name: "Mirrors"
