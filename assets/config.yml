@@ -3,7 +3,7 @@ subtitle: "Dupuis Family"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 22.02.2 // Contents: Oct 13 2022 11:29 AM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 22.02.2 // Contents: Jul 23 2023 8:17 PM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -124,10 +124,10 @@ services:
     icon: "fas fa-tools"
     items:
       - name: "Monitor"
-        logo: "assets/other-icons/uptimerobot.png"
-        subtitle: "UptimeRobot"
+        logo: "assets/other-icons/oneuptime.png"
+        subtitle: "OneUptime"
         tag: "Internet"
-        url: "https://stats.uptimerobot.com/kOJRjCnol7"
+        url: "https://oneuptime.com/status-page/1bc9dcf2-0b9f-4c4d-bb52-e5df7945cf2f"
         target: "_blank" # optional html a tag target attribute
       - name: "Speed Test"
         logo: "assets/other-icons/optimum.jpg"
