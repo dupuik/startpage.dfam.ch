@@ -124,7 +124,7 @@ services:
     icon: "fas fa-tools"
     items:
       - name: "Monitor"
-        logo: "assets/other-icons/oneuptime.png"
+        logo: "https://oneuptime.com/img/logo-gray.svg"
         subtitle: "OneUptime"
         tag: "Internet"
         url: "https://oneuptime.com/status-page/1bc9dcf2-0b9f-4c4d-bb52-e5df7945cf2f"
