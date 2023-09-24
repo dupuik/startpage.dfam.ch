@@ -151,3 +151,8 @@ services:
         tag: "Internet"
         url: "https://www.windy.com/-Weather-radar-radar?radar,40.064,-74.363,8,m:eMJad5e"
         target: "_blank" # optional html a tag target attribute
+      - name: "Merry Sky"
+        logo: "fas fa-umbrella"
+        tag: "Internet"
+        url: "https://merrysky.net/forecast/metuchen%20nj/us"
+        target: "_blank" # optional html a tag target attribute
