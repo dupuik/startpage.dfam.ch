@@ -3,7 +3,7 @@ subtitle: "Dupuis Family"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 22.02.2 // Contents: Sep 24 2023 8:37 PM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 22.02.2 // Contents: Sep 25 2023 10:53 PM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -117,29 +117,23 @@ services:
         icon: "fas fa-gamepad"
         subtitle: "kjtd.net"
         tag: "Internet"
-        url: "http://iegmc.kjtd.net"
+        url: "http://iegmcwww.kjtd.net"
         target: "_blank" # optional html a tag target attribute
 
   - name: "Utilities"
     icon: "fas fa-tools"
     items:
-      - name: "IEGMC Uptime Monitor"
-        logo: "assets/other-icons/uptimerobot.png"
-        subtitle: "UptimeRobot"
-        tag: "Internet"
-        url: "https://stats.uptimerobot.com/6l9zycVyPW"
-        target: "_blank" # optional html a tag target attribute
-      - name: "KJTDNET Uptime Monitor"
-        logo: "assets/other-icons/oneuptime.svg"
-        subtitle: "OneUptime"
-        tag: "Internet"
-        url: "https://status.kjtd.net"
-        target: "_blank" # optional html a tag target attribute
       - name: "Speed Test"
         logo: "assets/other-icons/optimum.jpg"
         subtitle: "Optimum"
         tag: "Internet"
         url: "https://www.optimum.com/internet/speed-test"
+        target: "_blank" # optional html a tag target attribute
+      - name: "Uptime Monitor"
+        icon: "fa-solid fa-bell"
+        subtitle: "Better Stack"
+        tag: "Internet"
+        url: "https://status.kjtd.net"
         target: "_blank" # optional html a tag target attribute
         
   - name: "Weather"
