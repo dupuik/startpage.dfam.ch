@@ -3,7 +3,7 @@ subtitle: "Dupuis Family"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 22.02.2 // Contents: Sep 25 2023 10:53 PM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 22.02.2 // Contents: Sep 26 2023 10:00 PM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -112,12 +112,6 @@ services:
         subtitle: "Michael Sofka"
         tag: "Internet"
         url: "http://kjtd.net/mirrors/homepages.rpi.edu/sofkam"
-        target: "_blank" # optional html a tag target attribute
-      - name: "IEGMC"
-        icon: "fas fa-gamepad"
-        subtitle: "kjtd.net"
-        tag: "Internet"
-        url: "http://iegmcwww.kjtd.net"
         target: "_blank" # optional html a tag target attribute
 
   - name: "Utilities"
