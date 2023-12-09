@@ -3,7 +3,7 @@ subtitle: "Dupuis Family"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 22.02.2 // Contents: Dec 9 2023 2:14 PM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 22.02.2 // Contents: Dec 9 2023 2:22 PM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -98,7 +98,7 @@ services:
     icon: "fas fa-people-roof"
     items:
       - name: "Files"
-        icon: "fas fa-cabinet-filing"
+        icon: "fa-solid fa-file"
         subtitle: "Google Drive"
         tag: "Internet"
         url: "https://drive.google.com/drive/folders/14F5WXHDWEQ-GpmySB7zJY9B1OMejtC7n?usp=drive_link"
