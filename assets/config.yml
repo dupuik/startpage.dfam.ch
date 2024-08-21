@@ -3,7 +3,7 @@ subtitle: "Start Page"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 22.02.2 // Contents: Jan 13 2024 7:21 PM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 22.02.2 // Contents: Aug 21 2024 11:36 AM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -82,7 +82,7 @@ services:
     icon: "fas fa-people-roof"
     items:
       - name: "Files"
-        icon: "fa-solid fa-file"
+        icon: "fas fa-file"
         subtitle: "Google Drive"
         tag: "Internet"
         url: "https://drive.google.com/drive/folders/14F5WXHDWEQ-GpmySB7zJY9B1OMejtC7n?usp=drive_link"
@@ -113,4 +113,20 @@ services:
         icon: "fas fa-umbrella"
         tag: "Internet"
         url: "https://merrysky.net/forecast/metuchen%20nj/us"
+        target: "_blank" # optional html a tag target attribute
+
+  - name: "Availability Monitors"
+    icon: "fas fa-arrow-down-up-across-line"
+    items:
+      - name: "Email Blacklist Monitor"
+        icon: "fas fa-envelope"
+        subtitle: "HetrixTools"
+        tag: "Internet"
+        url: "https://hetrixtools.com/r/6f9dcc69c315157f4ccc7fce6854640e"
+        target: "_blank" # optional html a tag target attribute
+      - name: "Uptime Monitor"
+        icon: "fas fa-chart-line"
+        subtitle: "Better Stack"
+        tag: "Internet"
+        url: "https://status.kjtd.net"
         target: "_blank" # optional html a tag target attribute
