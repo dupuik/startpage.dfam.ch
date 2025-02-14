@@ -3,7 +3,7 @@ subtitle: "Start Page"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 22.02.2 // Contents: Feb 13 2025 9:18 PM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 22.02.2 // Contents: Feb 13 2025 9:21 PM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -90,7 +90,7 @@ services:
     icon: "fas fa-tornado"
     items:
       - name: "Weather Forecast"
-        icon: "fas fa-umbrella"
+        icon: "fas fa-sun"
         subtitle: "National Weather Service"
         tag: "Internet"
         url: "https://forecast.weather.gov/MapClick.php?lat=40.54119500000007&lon=-74.36560999999995"
@@ -107,7 +107,7 @@ services:
         url: "https://merrysky.net/forecast/metuchen%20nj/us"
         target: "_blank" # optional html a tag target attribute
       - name: "Windy.com"
-        icon: ""
+        icon: "fas fa-satellite-dish"
         tag: "Internet"
         url: "https://www.windy.com/-Weather-radar-radar?radar,40.064,-74.363,8,m:eMJad5e"
         target: "_blank" # optional html a tag target attribute
