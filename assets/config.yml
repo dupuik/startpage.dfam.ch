@@ -3,7 +3,7 @@ subtitle: "Start Page"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 22.02.2 // Contents: Dec 16 2024 12:29 PM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 22.02.2 // Contents: Feb 13 2025 9:26 PM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -44,14 +44,6 @@ colors:
 # Optional navbar
 # links: [] # Allows for navbar (dark mode, layout, and search) without any links
 links:
-  - name: "News"
-    icon: "fas fa-newspaper"
-    url: "https://news.google.com"
-    target: "_blank" # optional html a tag target attribute
-  - name: "Weather"
-    icon: "fas fa-umbrella"
-    url: "https://forecast.weather.gov/MapClick.php?lat=40.54119500000007&lon=-74.36560999999995"
-    target: "_blank" # optional html a tag target attribute
   - name: "Webcams"
     icon: "fas fa-camera"
     url: "https://kjtd.net/webcams"
@@ -66,13 +58,13 @@ services:
     icon: "fas fa-gift"
     items:
       - name: "Calvin"
-        logo: "assets/other-icons/ugift.png"
+        icon: "fas fa-graduation-cap"
         subtitle: "Ugift 529 Plan"
         tag: "Internet"
         url: "https://www.ugift529.com/gifttpl/ugift/create/viewGiftCodeDetails.cs?ugiftcode=Q42-J0E"
         target: "_blank" # optional html a tag target attribute
       - name: "Julien"
-        logo: "assets/other-icons/ugift.png"
+        icon: "fas fa-graduation-cap"
         subtitle: "Ugift 529 Plan"
         tag: "Internet"
         url: "https://www.ugift529.com/gifttpl/ugift/create/viewGiftCodeDetails.cs?ugiftcode=J2J-L3M"
@@ -97,22 +89,26 @@ services:
   - name: "Weather"
     icon: "fas fa-tornado"
     items:
-      - name: "Weather Conditions"
-        logo: "assets/other-icons/davis.png"
+      - name: "Weather Forecast"
+        icon: "fas fa-umbrella"
+        url: "https://forecast.weather.gov/MapClick.php?lat=40.54119500000007&lon=-74.36560999999995"
+        target: "_blank" # optional html a tag target attribute
+      - name: "Local Weather Conditions"
+        icon: "fas fa-wind"
         subtitle: "Davis Vantage Pro2"
         tag: "Internet"
         url: "https://www.wunderground.com/dashboard/pws/KNJMETUC7"
+        target: "_blank" # optional html a tag target attribute
+      - name: "Merry Sky"
+        icon: "fas fa-umbrella"
+        tag: "Internet"
+        url: "https://merrysky.net/forecast/metuchen%20nj/us"
         target: "_blank" # optional html a tag target attribute
       - name: "Weather Radar"
         logo: "assets/other-icons/windy.png"
         subtitle: "Windy.com"
         tag: "Internet"
         url: "https://www.windy.com/-Weather-radar-radar?radar,40.064,-74.363,8,m:eMJad5e"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Merry Sky"
-        icon: "fas fa-umbrella"
-        tag: "Internet"
-        url: "https://merrysky.net/forecast/metuchen%20nj/us"
         target: "_blank" # optional html a tag target attribute
 
   - name: "Availability Monitors"
