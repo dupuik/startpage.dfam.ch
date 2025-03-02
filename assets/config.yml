@@ -3,7 +3,7 @@ subtitle: "Start Page"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 22.02.2 // Contents: Feb 13 2025 9:21 PM EDT \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 22.02.2 // Contents: Mar 2 2025 3:35 PM EST \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -97,9 +97,9 @@ services:
         target: "_blank" # optional html a tag target attribute
       - name: "Weather Conditions"
         icon: "fas fa-wind"
-        subtitle: "Davis Vantage Pro2"
+        subtitle: "Ambient Weather WS-2902"
         tag: "Internet"
-        url: "https://www.wunderground.com/dashboard/pws/KNJMETUC7"
+        url: "https://www.wunderground.com/dashboard/pws/KNJMETUC5"
         target: "_blank" # optional html a tag target attribute
       - name: "Merry Sky"
         icon: "fas fa-umbrella"
