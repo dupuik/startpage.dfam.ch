@@ -3,7 +3,7 @@ subtitle: "Start Page"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 22.02.2 // Contents: Jun 29 2025 1:37 PM EST \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 22.02.2 // Contents: Jun 29 2025 1:52 PM EST \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -103,6 +103,7 @@ services:
         target: "_blank" # optional html a tag target attribute
       - name: "Surf Forecast"
         icon: "fas fa-wave"
+        subtitle: "Surf Captain"
         tag: "Internet"
         url: "https://surfcaptain.com/forecast/seaside-heights-new-jersey"
         target: "_blank" # optional html a tag target attribute
@@ -131,4 +132,13 @@ services:
         subtitle: "Better Stack"
         tag: "Internet"
         url: "https://status.kjtd.net"
+        target: "_blank" # optional html a tag target attribute
+
+  - name: "Events/Venues"
+    icon: "fas fa-party-horn"
+    items:
+      - name: "Metuchen Pool"
+        icon: "fas fa-pool"
+        tag: "Internet"
+        url: "https://www.facebook.com/MetuchenMunicipalPool/"
         target: "_blank" # optional html a tag target attribute
