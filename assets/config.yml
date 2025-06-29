@@ -43,11 +43,11 @@ colors:
 
 # Optional navbar
 # links: [] # Allows for navbar (dark mode, layout, and search) without any links
-links:
-  - name: "Webcams"
-    icon: "fas fa-camera"
-    url: "https://kjtd.net/webcams"
-    target: "_blank" # optional html a tag target attribute
+#links:
+#  - name: "Webcams"
+#    icon: "fas fa-camera"
+#    url: "https://kjtd.net/webcams"
+#    target: "_blank" # optional html a tag target attribute
 
 # Services
 # First level array represent a group.
@@ -60,13 +60,11 @@ services:
       - name: "Calvin"
         icon: "fas fa-graduation-cap"
         subtitle: "Ugift 529 Plan"
-        tag: "Internet"
         url: "https://www.ugift529.com/gifttpl/ugift/create/viewGiftCodeDetails.cs?ugiftcode=Q42-J0E"
         target: "_blank" # optional html a tag target attribute
       - name: "Julien"
         icon: "fas fa-graduation-cap"
         subtitle: "Ugift 529 Plan"
-        tag: "Internet"
         url: "https://www.ugift529.com/gifttpl/ugift/create/viewGiftCodeDetails.cs?ugiftcode=J2J-L3M"
         target: "_blank" # optional html a tag target attribute
 
@@ -76,13 +74,11 @@ services:
       - name: "Files"
         icon: "fas fa-file"
         subtitle: "Google Drive"
-        tag: "Internet"
         url: "https://drive.google.com/drive/folders/14F5WXHDWEQ-GpmySB7zJY9B1OMejtC7n?usp=drive_link"
         target: "_blank" # optional html a tag target attribute
       - name: "Library"
         icon: "fas fa-book"
         subtitle: "Home"
-        tag: "Internet"
         url: "https://www.libib.com/u/dupuik"
         target: "_blank" # optional html a tag target attribute
         
@@ -92,29 +88,24 @@ services:
       - name: "Weather Forecast"
         icon: "fas fa-sun"
         subtitle: "National Weather Service"
-        tag: "Internet"
         url: "https://forecast.weather.gov/MapClick.php?lat=40.54119500000007&lon=-74.36560999999995"
         target: "_blank" # optional html a tag target attribute
       - name: "Weather Conditions"
         icon: "fas fa-wind"
         subtitle: "Ambient Weather WS-2902"
-        tag: "Internet"
         url: "https://www.wunderground.com/dashboard/pws/KNJMETUC5"
         target: "_blank" # optional html a tag target attribute
       - name: "Surf Forecast"
         icon: "fas fa-wave"
         subtitle: "Surf Captain"
-        tag: "Internet"
         url: "https://surfcaptain.com/forecast/seaside-heights-new-jersey"
         target: "_blank" # optional html a tag target attribute
       - name: "Merry Sky"
         icon: "fas fa-umbrella"
-        tag: "Internet"
         url: "https://merrysky.net/forecast/metuchen%20nj/us"
         target: "_blank" # optional html a tag target attribute
       - name: "Windy.com"
         icon: "fas fa-satellite-dish"
-        tag: "Internet"
         url: "https://www.windy.com/-Weather-radar-radar?radar,40.064,-74.363,8,m:eMJad5e"
         target: "_blank" # optional html a tag target attribute
 
@@ -124,13 +115,11 @@ services:
       - name: "Email Blacklist Monitor"
         icon: "fas fa-envelope"
         subtitle: "HetrixTools"
-        tag: "Internet"
         url: "https://hetrixtools.com/r/6f9dcc69c315157f4ccc7fce6854640e"
         target: "_blank" # optional html a tag target attribute
       - name: "Uptime Monitor"
         icon: "fas fa-chart-line"
         subtitle: "Better Stack"
-        tag: "Internet"
         url: "https://status.kjtd.net"
         target: "_blank" # optional html a tag target attribute
 
@@ -139,6 +128,5 @@ services:
     items:
       - name: "Metuchen Pool"
         icon: "fas fa-pool"
-        tag: "Internet"
         url: "https://www.facebook.com/MetuchenMunicipalPool/"
         target: "_blank" # optional html a tag target attribute
