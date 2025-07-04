@@ -3,7 +3,7 @@ subtitle: "Start Page"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 22.02.2 // Contents: Jul 4 2025 7:10 AM ET \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 22.02.2 // Contents: Jul 4 2025 7:17 AM ET \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -128,5 +128,6 @@ services:
     items:
       - name: "Metuchen Pool"
         icon: "fas fa-person-swimming"
+        subtitle: "Facebook"
         url: "https://www.facebook.com/MetuchenMunicipalPool/"
         target: "_blank" # optional html a tag target attribute
