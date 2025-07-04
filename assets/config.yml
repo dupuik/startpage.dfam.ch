@@ -96,7 +96,7 @@ services:
         url: "https://www.wunderground.com/dashboard/pws/KNJMETUC5"
         target: "_blank" # optional html a tag target attribute
       - name: "Surf Forecast"
-        icon: "fas fa-wave"
+        icon: "fas fa-water"
         subtitle: "Surf Captain"
         url: "https://surfcaptain.com/forecast/seaside-heights-new-jersey"
         target: "_blank" # optional html a tag target attribute
@@ -124,9 +124,9 @@ services:
         target: "_blank" # optional html a tag target attribute
 
   - name: "Events/Venues"
-    icon: "fas fa-party-horn"
+    icon: "fas fa-champagne-glasses"
     items:
       - name: "Metuchen Pool"
-        icon: "fas fa-pool"
+        icon: "fas fa-person-swimming"
         url: "https://www.facebook.com/MetuchenMunicipalPool/"
         target: "_blank" # optional html a tag target attribute
