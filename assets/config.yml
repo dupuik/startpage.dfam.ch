@@ -3,7 +3,7 @@ subtitle: "Start Page"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 22.02.2 // Contents: Dec 7 2025 10:50 PM ET \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 22.02.2 // Contents: Dec 20 2025 9:21 PM ET \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -93,7 +93,7 @@ services:
       - name: "Weather Conditions"
         icon: "fas fa-wind"
         subtitle: "Ambient Weather WS-2902"
-        url: "https://www.wunderground.com/dashboard/pws/KNJMETUC5"
+        url: "https://www.wunderground.com/dashboard/pws/KNJMETUC24"
         target: "_blank" # optional html a tag target attribute
 
   - name: "Availability Monitors"
