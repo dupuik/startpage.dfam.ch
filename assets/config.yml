@@ -3,7 +3,7 @@ subtitle: "Start Page"
 icon: "fas fa-bullseye"
 
 header: true
-footer: '<p>Release 22.02.2 // Contents: Mar 3 2026 1:08 AM ET \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
+footer: '<p>Release 22.02.2 // Contents: Mar 3 2026 1:13 AM ET \\ Created with <span class="has-text-danger">❤️</span> with <a href="https://github.com/bastienwirtz/homer" target="_blank">Homer</a></p>' # set false if you want to hide it.
 
 # Optional theme customization
 theme: default
@@ -75,32 +75,6 @@ services:
         url: "https://metuchennj.org/resident/trash"
         target: "_blank" # optional html a tag target attribute
 
-  - name: "Activities"
-    icon: "fas fa-trophy"
-    items:
-      - name: "Ski Resorts"
-        icon: "fas fa-person-skiing"
-        subtitle: "KJTDNET"
-        url: "https://kjtd.net/ski"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Pong"
-        icon: "fas fa-table-tennis-paddle-ball"
-        subtitle: "KJTDNET"
-        url: "https://kjtd.net/pong"
-        target: "_blank" # optional html a tag target attribute
-
-  - name: "Libraries"
-    icon: "fas fa-book-reader"
-    items:
-      - name: "Home Library"
-        icon: "fas fa-book"
-        url: "https://www.libib.com/u/dupuik"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Borough Library Online Resources"
-        icon: "fas fa-book"
-        url: "https://www.metuchenlibrary.org/books-more"
-        target: "_blank" # optional html a tag target attribute
-        
   - name: "Weather"
     icon: "fas fa-tornado"
     items:
@@ -115,6 +89,32 @@ services:
         url: "https://www.wunderground.com/dashboard/pws/KNJMETUC24"
         target: "_blank" # optional html a tag target attribute
 
+  - name: "Libraries"
+    icon: "fas fa-book-reader"
+    items:
+      - name: "Home Library"
+        icon: "fas fa-book"
+        url: "https://www.libib.com/u/dupuik"
+        target: "_blank" # optional html a tag target attribute
+      - name: "Borough Library Online Resources"
+        icon: "fas fa-book"
+        url: "https://www.metuchenlibrary.org/books-more"
+        target: "_blank" # optional html a tag target attribute
+
+  - name: "Activities"
+    icon: "fas fa-trophy"
+    items:
+      - name: "Ski Resorts"
+        icon: "fas fa-person-skiing"
+        subtitle: "KJTDNET"
+        url: "https://kjtd.net/ski"
+        target: "_blank" # optional html a tag target attribute
+      - name: "Pong"
+        icon: "fas fa-table-tennis-paddle-ball"
+        subtitle: "KJTDNET"
+        url: "https://kjtd.net/pong"
+        target: "_blank" # optional html a tag target attribute
+        
   - name: "Gifts"
     icon: "fas fa-gift"
     items:
